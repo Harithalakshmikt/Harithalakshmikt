@@ -15,7 +15,7 @@ Aspiring Machine Learning Engineer with an M.Tech in Signal Processing and hands
 ## 🛠️ Technical Skills
 
 **Languages:** Python, C, Embedded C  
-**Libraries/Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy  
+**Libraries/Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, OpenCV (cv2)  
 **ML Techniques:** Classification, Regression, Data Augmentation, Ensemble Methods, Model Evaluation  
 **Computer Vision:** Image Processing, Feature Extraction, Attention Mechanisms, Object Detection  
 **Tools & Platforms:** Jupyter Notebook, Google Colab, MATLAB  
