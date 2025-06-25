@@ -25,7 +25,7 @@ Aspiring Machine Learning Engineer with an M.Tech in Signal Processing and hands
 
 ## 💼 Experience
 
-### 📊 Machine Learning Intern — Unified Mentor *(Apr 2025 – Jun 2025)*  
+### 📊 Machine Learning Intern — Unified Mentor *(Apr 2025 – Present)*  
 - Developed ML models for fraud detection, heart disease prediction, forest cover classification, and vehicle price estimation  
 - Used XGBoost, Logistic Regression, and ensemble approaches  
 - Addressed data imbalance and built reusable training pipelines
