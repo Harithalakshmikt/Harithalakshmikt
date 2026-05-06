@@ -49,4 +49,4 @@ Developed an NL-to-SQL application using FastAPI, Groq API, and SQLite to conver
 ## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/harithalakshmikt097
 - GitHub: github.com/Harithalakshmikt
-- Email: harithalakshmi097@gmail.com
+- Email: harithalakhmi097@gmail.com
